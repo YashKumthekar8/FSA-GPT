@@ -3,8 +3,7 @@ This repository contains the code and supplementary materials for our research p
 
 - Paper Title:Transforming Sentiment Analysis in the Financial Domain with ChatGPT
 - Authors: Georgios Fatouros, John Soldatos, Kalliopi Kouroumali, Georgios Makridis and Dimosthenis Kyriazis
-- Submitted to: Elsevier Machine Learning with Applications
-- **Cite as:**  G. Fatouros, J. Soldatos, K. Kouroumali et al., Transforming sentiment analysis in the financial domain with ChatGPT. Machine Learning with Applications (2023), doi: https://doi.org/10.1016/j.mlwa.2023.100508.
+
 ## Prerequisites
 
 - Python 3.x
@@ -52,11 +51,3 @@ python3 results.py
 `sentiment_to_numeric`: Converts sentiment labels to numeric values.
 `get_sentiment`: Fetches sentiment predictions from ChatGPT based on the specified prompt.
 
-
-## License
-This project is open-source and available under the MIT License.
-
-## Acknowledgment
-Part of the research leading to the results presented in this paper has received funding from the European Union’s funded Project FAME under grant agreement no 101092639.
-
-We would also like to express our gratitude to our FAME partners, JRC Capital Management Consultancy Research GmbH and KMcube Asset Management SA, for their invaluable contributions and expertise in the data labeling process.
